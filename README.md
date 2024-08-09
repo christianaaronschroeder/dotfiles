@@ -1,2 +1,2 @@
 # dotfiles
-my configs
+my zsh and git configs, and some other stuff
