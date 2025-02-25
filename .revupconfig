@@ -1,0 +1,10 @@
+[revup]
+main_branch = ***
+base_branch_globs =
+        v[0-9]*
+github_username = christianaaronschroeder
+github_oauth = ***
+
+[upload]
+update_pr_body = False
+pre_upload = cargo fmt --all --check
