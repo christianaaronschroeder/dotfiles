@@ -1,6 +1,6 @@
 [user]
 	name = Christian Schroeder
-	email = 43764673+christianaaronschroeder@users.noreply.github.com
+	email = ***
 [color]
     ui = auto
 [pull]
@@ -10,3 +10,5 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[commit]
+	template = ***
